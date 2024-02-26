@@ -1,0 +1,16 @@
+E:\axzolt\axzolt\src\first_app.cpp;E:\axzolt\axzolt\x64\Release\first_app.obj
+E:\axzolt\axzolt\src\keyboard_movement_controller.cpp;E:\axzolt\axzolt\x64\Release\keyboard_movement_controller.obj
+E:\axzolt\axzolt\src\lve_buffer.cpp;E:\axzolt\axzolt\x64\Release\lve_buffer.obj
+E:\axzolt\axzolt\src\lve_camera.cpp;E:\axzolt\axzolt\x64\Release\lve_camera.obj
+E:\axzolt\axzolt\src\lve_descriptors.cpp;E:\axzolt\axzolt\x64\Release\lve_descriptors.obj
+E:\axzolt\axzolt\src\lve_device.cpp;E:\axzolt\axzolt\x64\Release\lve_device.obj
+E:\axzolt\axzolt\src\lve_game_object.cpp;E:\axzolt\axzolt\x64\Release\lve_game_object.obj
+E:\axzolt\axzolt\src\lve_model.cpp;E:\axzolt\axzolt\x64\Release\lve_model.obj
+E:\axzolt\axzolt\src\lve_pipeline.cpp;E:\axzolt\axzolt\x64\Release\lve_pipeline.obj
+E:\axzolt\axzolt\src\lve_renderer.cpp;E:\axzolt\axzolt\x64\Release\lve_renderer.obj
+E:\axzolt\axzolt\src\lve_swap_chain.cpp;E:\axzolt\axzolt\x64\Release\lve_swap_chain.obj
+E:\axzolt\axzolt\src\lve_window.cpp;E:\axzolt\axzolt\x64\Release\lve_window.obj
+E:\axzolt\axzolt\src\main.cpp;E:\axzolt\axzolt\x64\Release\main.obj
+E:\axzolt\axzolt\src\log.cpp;E:\axzolt\axzolt\x64\Release\log.obj
+E:\axzolt\axzolt\systems\point_light_system.cpp;E:\axzolt\axzolt\x64\Release\point_light_system.obj
+E:\axzolt\axzolt\systems\simple_render_system.cpp;E:\axzolt\axzolt\x64\Release\simple_render_system.obj
